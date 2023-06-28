@@ -1,5 +1,6 @@
 # TFG-TreeTopDetector
 Cree un ambiente virtual que utilice python 3.7
+    Anaconda Navigator 2.1.1 es el utilizado
 
 Se necesita descargar la bilbioteca Mask-RCNN e incluir la carpeta completa en el directorio de este proyecto.
     https://github.com/ahmedfgad/Mask-RCNN-TF2
